@@ -16,3 +16,11 @@
 </div>
 
 
+<div align="center"> 
+
+
+<a href="mailto:cmp.1a.contato.davidrochabomfim@gmail.com">
+  <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/2c0ec0ad-e023-4b96-b2bf-845c5daa20be" alt="Enviar e-mail">
+</a>
+
+</a>
