@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/4b2f55b3-0327-49e0-b3d6-4e931e10447e">
 
-<!--
-**David-Bomfim/David-Bomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B334C3&center=true&vCenter=true&width=1000&lines=Hi%2C+My+name+is+David;I'm+19+Years+Old;I'm+a+Backend+Developer;And+I'm+from+Brazil+%3C3;Welcome%3A)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+<div align = "center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=David-Bomfim&theme=tokyonight-duo&exclude_days=Sat&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+</div>
+
+
